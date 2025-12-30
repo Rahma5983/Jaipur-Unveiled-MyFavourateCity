@@ -21,9 +21,9 @@ This project was assigned by **L&T Edutech** as part of their Learning Program a
 
 ## Built With
 - HTML5
-- CSS3 (and optional frameworks such as Bootstrap or Tailwind)
-- JavaScript (vanilla or frameworks if used)
-- Optional: Maps/Map API (Leaflet / Google Maps) for location display
+- CSS3 
+- JavaScript
+- Bootstrap 
 
 
 ## Getting Started
@@ -54,9 +54,9 @@ A typical structure for this project might look like:
 ├─ index.html
 ├─ attractions.html
 ├─ restaurants.html
-├─ things-to-do.html
+├─ things_to_do.html
 ├─ events.html
-├─ planyourtrip.html
+├─ plan_your_trip.html
 ├─ contact.html
 ├─ README.md
 ├─ css/
