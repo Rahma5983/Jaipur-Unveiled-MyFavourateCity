@@ -75,37 +75,25 @@ These instructions will help you get a copy of the project up and running on you
 
 (Adjust commands to match the actual build scripts in your repository.)
 
----
-
 ## Project Structure
 A typical structure for this project might look like:
 ```
 / (project root)
 ├─ index.html
+├─ attractions.html
+├─ restaurants.html
+├─ things-to-do.html
+├─ events.html
+├─ planyourtrip.html
+├─ contact.html
 ├─ README.md
 ├─ css/
-│  └─ styles.css
+│  └─ style.css
 ├─ js/
-│  └─ main.js
+│  └─ script.js
 ├─ assets/
 │  └─ images/
-└─ docs/
 ```
-Update this section to reflect the actual files and folders in your repository.
-
----
-
-## How to Contribute
-Contributions are welcome. To contribute:
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/your-feature`
-3. Commit your changes: `git commit -m "Add some feature"`
-4. Push to the branch: `git push origin feature/your-feature`
-5. Open a Pull Request describing your changes.
-
-Please follow the project's coding style and include clear commit messages. For major changes, open an issue first to discuss what you would like to change.
-
----
 
 ## Group Project & Attribution
 This project was created as part of the **L&T Edutech Learning Program** and completed as a **group project**.  
@@ -121,12 +109,3 @@ NarendraKumar Gopineedi Sir
 
 ## Acknowledgements
 - Thank you to L&T Edutech for providing the project as part of the Learning Program.
-
-## License
-This project is provided for learning purposes as part of the L&T Edutech program.  
-You can choose a license for this repository (e.g., MIT). If you want to apply the MIT license, add a `LICENSE` file with the MIT text. Otherwise, update this section to reflect the actual license.
-- Project owner / main contact: [Rahma5983](https://github.com/Rahma5983)
-
----
-
-Thank you for checking out Jaipur Unveiled! Feel free to update the README with specific details (technology stack, screenshots, contributors' full names and links, demo link) to make it fully representative of the completed project.
