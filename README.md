@@ -1,4 +1,4 @@
-🌸# Jaipur Unveiled — My Favourite City
+# 🌸Jaipur Unveiled — My Favourite City
 Project 1 | L&T Edutech Learning Program
 
 ---
