@@ -10,9 +10,9 @@ document.addEventListener('DOMContentLoaded', () => {
         });
         
      card.addEventListener('keypress', (e) => {
-            // Check if Enter (13) or Space (32) was pressed
+            
             if (e.key === 'Enter' || e.key === ' ') {
-                e.preventDefault(); // Prevent default scroll for spacebar
+                e.preventDefault(); 
                 card.classList.toggle('flipped');
             }
         });
